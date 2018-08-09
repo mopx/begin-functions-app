@@ -1,0 +1,7 @@
+{
+  "name": "hurl-r5i-get-index",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin-functions/data": "latest"
+  }
+}
